@@ -3,14 +3,14 @@
 # ----------------------- #
 
 
-baseurl: https://fsanglambingo.github.io
-url: https://fsanglambingo.github.io
+baseurl: https://fsanglam.github.io
+url: https://fsanglam.github.io
 title: Städtebinge
 subtitle: Der Fachschaft Anglistik Amerikanistik
 author: Fsanglam HU Berlin
 simple_search: http://google.com/search
 description:
-repository: fsianglam/fsanglambingo.github.io
+repository: fsianglam/fsanglam.github.io
 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -23,7 +23,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: redaktion@libreas.eu
+#email: redaktion@libreas.eu
 
 # Build settings
 markdown: kramdown
