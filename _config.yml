@@ -3,14 +3,14 @@
 # ----------------------- #
 
 
-baseurl: https://pse-libreas.github.io
-url: https://pse-libreas.github.io
-title: LIBREAS. Library Ideas
-subtitle: Elektronische Zeitschrift für Bibliotheks- und Informationswissenschaft 
-author: LIBREAS. Library Ideas
+baseurl: https://fsanglam.github.io
+url: https://fsanglam.github.io
+title: Städtebinge
+subtitle: Der Fachschaft Anglistik Amerikanistik
+author: Fsanglam HU Berlin
 simple_search: http://google.com/search
 description:
-repository: PSE-LIBREAS/PSE-LIBREAS.github.io
+repository: fsianglam/fsanglambingo.github.io
 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
