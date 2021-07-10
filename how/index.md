@@ -25,7 +25,7 @@ The rest of this instruction set assumes that you are editing in google slides,
 Once you have your own copy you can start replacing the prompts you fullfilled with the pictures you took. To do that right click on the picture and
 select `replace image`.
 
-![Where to find the "replace image button](main/img/insert_pic.png)
+![Where to find the "replace image button](./img/insert_pic.png)
 
 Finally you still have to resize the image so it is fully visible (maybe we can skip that step by having the text pictures be exactly the size of our squares?)
 In order to do that right click on the image, select resize image (if we do this repeat the picture from above with a different arrow) and use the appearing black
