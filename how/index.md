@@ -3,14 +3,12 @@ layout: page
 ---
 
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-
-<h2>How to play </h2>
+## How to play
 
 General bingo rules, specific rules we want to have followed for our thing
 
 
-<h2> How to get, edit and submit your bingo board </h2>
+## How to get, edit and submit your bingo board 
 
 Click on [this link](https://docs.google.com/presentation/d/15JNROkP5hEKqj8FT10v7BiQ7l6xoQaJhc0Q55r6_bCM/edit?usp=sharing) to open the google doc
 with the bingo board template.
@@ -18,7 +16,7 @@ with the bingo board template.
 Now make a copy of the board so you can edit it and add your own pictures. To make a copy go to files > make a copy.
 
 
-<img src="img/make_copy.png" alt="Where to find the make a copy button" width="500" height="600">
+![Where to find the make a copy button](img/make_copy.png) 
 
 If you dont have a google account you can also download the bingo board as a powerpoint presentation. The Humboldt University has a reduced office key which
 can be found [here](https://www.cms.hu-berlin.de/de/dl/multimedia/bereiche/dmp/dmpblog/6efb498b4595e1a05efdf6d9317f3ea2) alternatively LibreOffice and OpenOffice 
