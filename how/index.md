@@ -14,7 +14,7 @@ with the bingo board template.
 
 Now make a copy of the board so you can edit it and add your own pictures. To make a copy go to files > make a copy.
 
-![Where to find the make a copy button](img/make_copy.png)
+![Where to find the make a copy button](~/img/make_copy.png)
 
 If you dont have a google account you can also download the bingo board as a powerpoint presentation. The Humboldt University has a reduced office key which
 can be found [here](https://www.cms.hu-berlin.de/de/dl/multimedia/bereiche/dmp/dmpblog/6efb498b4595e1a05efdf6d9317f3ea2) alternatively LibreOffice and OpenOffice 
