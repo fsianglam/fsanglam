@@ -5,7 +5,8 @@ layout: page
 
 ## How to play
 
-General bingo rules, specific rules we want to have followed for our thing
+  - Bingo rules
+  - Specific rules for our thing
 
 
 ## How to get, edit and submit your bingo board 
