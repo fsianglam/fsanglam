@@ -7,6 +7,11 @@ sharing: true
 footer: true
 ---
 
+<div style="text-align: right">
+  <img src="img/test_icon.png" alt="Girl in a jacket" >
+ </div>
+
+
 This bingo is meant to get you out and explore the city, and there are fun prizes for participating too!
 
 ![Image of the full bingo board](img/full_board.png)
