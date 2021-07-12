@@ -304,6 +304,13 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
+  background-image: url("test_icon.png"); 
+  background-position: right;
+  background-color: #cccccc;
+  height: 50px;
+  width: 50px;
+  background-position: right;
+  background-repeat: no-repeat;
 }
 .masthead-title {
   margin-top: 0;
