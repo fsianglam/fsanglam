@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to the FSI City Bingo"
+title: "AnglAm BERLIN BINGO"
 date: 2013-08-16 18:59
 comments: true
 sharing: true
