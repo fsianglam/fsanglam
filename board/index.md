@@ -1,4 +1,5 @@
 ---
 layout: page
-title : "The board"
 ---
+
+![Picture of the full bingo board](img/full_board.png)
