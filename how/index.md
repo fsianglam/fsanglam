@@ -19,6 +19,7 @@ You can upload boards until **October 31st at noon** - after that, the jury will
 
 [HERE](https://docs.google.com/presentation/d/1hlcpYT5othJcqNj529VsNBJRRHt87E9D6x7RlvEr-t8/edit?usp=sharing)you find a google doc with the BINGO board template. You now have to make a copy of it which you can edit - to do this, go to files > make a copy.    
  
+ If you don’t want to use Google, [HERE’S](https://box.hu-berlin.de/f/c90423e69baf40cdbf81/?dl=1) a direct download    
  
 You can edit the template directly in Google Slides or, if you don’t have a Google account, you can download the board as a Powerpoint presentation. LibreOffice and OpenOffice are free alternatives to Microsoft Office.     
  
