@@ -1,13 +1,17 @@
 ---
 layout: page
+title : "HOW IT WORKS
 ---
-
 
 ## How to play
 
-  - Bingo rules
-  - Specific rules for our thing
-
+Here’s how it works: Below, you can see a BINGO-Board with a number of clues on it - the solutions are all locations within Berlin city limits. Your job (as **a single person or a group of up to four people**) is to **solve the clue, visit the location and take a picture** – either of you(r group) or of your mascot – with it. You can then **upload the picture** to the corresponding square on the board – and maybe win a prize.
+You can upload pictures until **October 31st at noon** - after that, the jury will deliberate and the winners will be announced on the page at **6pm**. 
+**There will be three different categories**, one with three winners and the other with one winner. The categories are as follows:
+**First, second and third (group) to get a BINGO** (horizontal / vertical / diagonal line with all letters included) 
+**First (group) to complete the full board**
+**Creative Prize**: This one is pretty open to interpretation. You may win with a single picture, or with what you did with your whole board.
+ 
 
 ## How to get, edit and submit your bingo board 
 
