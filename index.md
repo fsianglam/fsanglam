@@ -14,7 +14,7 @@ This bingo is meant to get you out and explore the city, and there are fun prize
 
 ![Image of the full bingo board](img/full_board.png)
 
-You can get your copy of the bingo board [here](https://docs.google.com/presentation/d/15JNROkP5hEKqj8FT10v7BiQ7l6xoQaJhc0Q55r6_bCM/edit?usp=sharing) 
+You can get your copy of the bingo board [here](https://docs.google.com/presentation/d/15JNROkP5hEKqj8FT10v7BiQ7l6xoQaJhc0Q55r6_bCM/edit?usp=sharing) or by downloading a powerpoint copy [here]()
 If there are any issues with this link please get in touch under (INSERT EMAIL HERE) so we can figure iut the problem and get you a copy of the board to fill out!
 
 Insert a "Check the how to page for full rules" (or should we include the rules here?
