@@ -29,6 +29,6 @@ You can edit the template directly in Google Slides or, if you don’t have a Go
  
 Once you have your own copy, you can start replacing the prompts with the photos you took. To do that, you just right click on the prompt you want to fulfill and select ‘replace image’.    
  
-When you are satisfied with your board, you can download and submit it. To download, go to files > download as / save as > Microsoft Powerpoint (.pptx). Then you go to the SUBMIT tab on this Website and submit your board.    
+When you are satisfied with your board, you can (download and) submit it. To download, go to files > download as / save as > Microsoft Powerpoint (.pptx). Then you go to the SUBMIT tab on this Website and submit your board.    
  
 **Congratulations, you did it!**   
