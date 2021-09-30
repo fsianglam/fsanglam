@@ -9,6 +9,8 @@ footer: true
 
 Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.  
 Fachschaftsinitiative Anglistik Amerikanistik HU Berlin - FSI AnglAm    
+
+
 Tomke Meyn    
 Unter den Linden 6, Raum 3016a,    
 10099 Berlin,   
