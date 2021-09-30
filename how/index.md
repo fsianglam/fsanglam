@@ -1,6 +1,6 @@
 ---
 layout: page
-title : "HOW IT WORKS
+title : "HOW IT WORKS"
 ---
 
 ## How to play
